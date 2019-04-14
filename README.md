@@ -16,7 +16,7 @@ This dataset is choosen because it contains several parameters which are conside
    6. Research Experience ( either 0 or 1 ) 
    7. Chance of Admit ( ranging from 0 to 1 ).
 
-*Although the dataset contains only 500 records, it would be a great starting point.*
+*Although the dataset contains only 500 records, it is a very relevant dataset.*
 
 
 ### Analysis Code and Demo:
